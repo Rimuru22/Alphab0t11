@@ -193,9 +193,9 @@ autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
-apiku = 'https://youtu.be/2rWbjrDIAyA'
-gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
+baper = 'SUB YT SENKU BOTZ'
+apiku = 'https://youtube.com/channel/UCpoByK0G_kcTKc3uMEmDGhw'
+gc_wa_lu = 'https://chat.whatsapp.com/EovTV7blporBvWncIOXDBA' 
 targetpc = setting.ownerNumberr
 owner = targetpc
 fake = setting.fake
