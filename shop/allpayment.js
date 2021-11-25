@@ -11,7 +11,7 @@ return `PAYMENT BY SENKU
 3. DANA
 	ㅁ 0852 3379 0312
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama RI****
 
 *📲 PULSA*
 
