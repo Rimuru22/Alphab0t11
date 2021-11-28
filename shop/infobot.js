@@ -29,7 +29,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ♋ Tiktok :-
 ♌ Telegram :-
 ♎ Ch Telegram :-
-♏ WhatsApp : wa.me 6285233790312
+♏ WhatsApp : wa.me/6285233790312
 `}
 
 exports.infobot = infobot
